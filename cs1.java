@@ -1,4 +1,4 @@
-class simple
+class cs1
 {
  public static void main(String args[])
  {
